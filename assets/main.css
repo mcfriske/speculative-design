@@ -451,6 +451,9 @@ pre {
   .highlight .il {
     color: #099; }
 
+a.btn.btn-lg.btn-secondary.btn-block {
+  color: white; }
+
 .carousel-item {
   height: 100vh;
   background-size: cover; }
